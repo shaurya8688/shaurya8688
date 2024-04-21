@@ -67,6 +67,6 @@
 
 ###
 
-
+<img src="https://raw.githubusercontent.com/shaurya8688/shaurya8688/output/snake.svg" alt="Snake animation" />
 
 ###
