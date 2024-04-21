@@ -6,7 +6,6 @@
 - 👀 I’m a **DSA and Web Development enthusiast.**
 - 💬 Ask me about ***Html, Css, JavaScript, Reactjs, Firebase, Php**
 - 📫 How to reach me **shaurya8688@gmail.com**
-- 📙Check out my **resume https://drive.google.com/file/d/1NiMYuJIU7nBumUXRTDq5d8TZ1__xd_Xc/view?usp=drive_link**
 - ⚡ Fun fact **I Love Bugs**
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/shaurya-verma-39a1996a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
